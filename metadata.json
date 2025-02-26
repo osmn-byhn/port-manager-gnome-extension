@@ -1,0 +1,11 @@
+{
+    "shell-version": ["42", "43", "44"],
+    "uuid": "port-manager@custom",
+    "name": "Port Manager",
+    "description": "Açık portları listeleyen ve yöneten GNOME extension",
+    "version": 1,
+    "url": "https://github.com/osmn-byhn",
+    "settings-schema": "org.gnome.shell.extensions.port-manager"
+    
+  }
+  
