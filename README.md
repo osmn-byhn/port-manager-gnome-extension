@@ -11,7 +11,7 @@ This GNOME Shell extension allows you to view open listening ports and close the
 📌 **Installation:**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/username/port-manager.git
+   [git clone https://github.com/username/port-manager.git](https://github.com/osmn-byhn/port-manager-gnome-extension)
    ```  
 2. Add the extension to the GNOME Shell extensions folder  
 3. Enable it using GNOME Tweak Tool or run:  
